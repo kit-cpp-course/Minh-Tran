@@ -1,0 +1,5 @@
+"Calculus Made Easy"                         Silvanus P.T.   450
+"Contemporary Abstract Algebra"              Joseph G.A.     1275
+"The Art of Computer Programming"            Donald E.K.     1505
+"Calculus"                                   Michael S.A.    550
+"Encyclopedia of Mathematics"               James S.T.       750
